@@ -3,4 +3,4 @@
 
 print "Hello World"
 print "Bon Jour tout le monde"
-print "Danke Schoen"
+print "Guten Tag"
